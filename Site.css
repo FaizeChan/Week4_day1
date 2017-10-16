@@ -1,0 +1,29 @@
+﻿body {
+}
+
+p {
+    color: orangered;
+    font-family: Arial;
+    font-size: 12pt;
+}
+/*Tis is a comment*/
+.funkyFresh {
+    color: burlywood;
+    font-family: 'Franklin Gothic';
+    font-size: 22px;
+}
+
+#theThird{
+    color: blueviolet;
+}
+
+h1, h3, h6 {
+    font-family: 'Comic Sans MS';
+font-family: 'Kaushan Script', cursive;
+}
+
+ol li {
+    font-size: 15px;
+    text-decoration:wavy;
+    font-family: 'Pacifico', cursive;
+}
